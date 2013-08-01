@@ -8,7 +8,7 @@ The WordPress Plugin Boilerplate serves as a foundation and aims to provide a cl
 * Uses [PHPDoc](http://en.wikipedia.org/wiki/PHPDoc) conventions to document the code.
 * Example values are given, so you can see what needs to be changed.
 * Uses a strict file organization scheme to make sure the assets are easily maintainable.
-* Note that this boilerplate includes a `.pot` as a starting translation file.
+* Note that this boilerplate includes a `.pot` as a starting translation file.  
 
 ## Contents
 
